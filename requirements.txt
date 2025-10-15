@@ -1,3 +1,4 @@
 runpod
 httpx
 fastapi
+uvicorn
